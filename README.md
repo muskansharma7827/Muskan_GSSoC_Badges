@@ -18,5 +18,6 @@ Each badge represents a milestone in my open‑source journey.
 
 ### 📬 Connect with Me
 
-https://github.com/muskansharma7827
-www.linkedin.com/in/muskan-sharma-16415a331
+https://github.com/muskansharma7827  |  www.linkedin.com/in/muskan-sharma-16415a331
+
+
